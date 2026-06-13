@@ -29,7 +29,7 @@
 
 ### Let's connect
 
-📫 **aanahita.aaria@gmail.com**
+📫 **aanahita.aaria@gmail.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/anahita-aria/)
 
 <!---
 anahita-aria/anahita-aria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
