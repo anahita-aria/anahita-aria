@@ -29,7 +29,7 @@
 
 ### Let's connect
 
-📫 **aanahita.aaria@gmail.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/anahita-aria/)
+📫 **aanahita.aaria@gmail.com** · 🔗 [LinkedIn](https://www.linkedin.com/in/anahita-aria/) · 🌐 [Portfolio](https://portfolio-blue-seven-79.vercel.app/)
 
 <!---
 anahita-aria/anahita-aria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
